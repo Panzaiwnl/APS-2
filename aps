@@ -71,11 +71,12 @@ vaziopilha_push (Pilha* p,floatv)
  n->info = v;
  n->prox = p->prim;
  p->prim = n;
+}
 
 void consultar() {
 	int CPF;
 	FILE *r;
-	if  (r = dados "CPF"{
+	if  (r = dados "CPF"){
   printf ("CPF:%d\n", p.cpf);
 	
 	}
