@@ -1,6 +1,7 @@
 #incluir<stdio.h>
 #incluir<stdio.h>
 #incluir<string.h>
+
 Struct Pessoa {
   char nome[50]; 
   char endereco [50];
